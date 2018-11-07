@@ -4,5 +4,7 @@
 
 #	username = getpass.getuser()
 	#print username
-	
-print("Hello world!")
+import getpass
+print(getpass.getuser())	
+
+#print("Hello world!")
