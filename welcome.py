@@ -1,7 +1,8 @@
 #! /usr/bin/python
 
-	import getpass
+#	import getpass
 
-	username = getpass.getuser()
-	print username
+#	username = getpass.getuser()
+	#print username
 	
+print("Hello world!")
